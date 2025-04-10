@@ -301,7 +301,6 @@ web_analytics:  # 网页访问统计
 # Lazy loading of images and comment plugin on the page
 lazyload:
   enable: true
-
   # 加载时的占位图片
   # The placeholder image when loading
   loading_img: /img/loading.gif
